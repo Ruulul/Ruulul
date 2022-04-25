@@ -6,7 +6,6 @@
 - 📫 How to reach me: 
   * @V_142857 on Telegram
   * 5-142857#7577 on Discord
-  * https://val-142857.neocities.org/
 ## Abilities
   - Languages:
     - Brazilian Portuguese as mother tongue
