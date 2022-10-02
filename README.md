@@ -11,7 +11,7 @@
     - English, fluent(I guess) on read, advanced on write, and _maybe_ advanced on speak/hear
   - Programming Languages:
     - Javascript  x x x x o
-    - Zig         X X X o o
+    - Zig         x x x o o
     - html        x x x o o
       - Pug as templating too
     - css         x x x o o
