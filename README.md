@@ -1,10 +1,11 @@
 ## Intro
-- 👋 Hi, I’m Val, despite the username
-- 🌱 I’m currently working with Svelte, Prisma ORM, Express and Nodemailer.
+- 👋 Hi, I’m Vih, Val or just V
+- 🌱 My last job used Svelte, Prisma ORM, Express and Nodemailer. Currently job hunting and studying Godot, 3D modeling and shading.
 - 💞️ My favorite kind of technology to learn to work and develop on is p2p based ones, specially IPFS and Hypercore.
 - 📫 How to reach me: 
   * @V_142857 on Telegram
   * 5-142857#7577 on Discord
+  * vamjunior01@gmail.com by email
 ## Abilities
   - Languages:
     - Brazilian Portuguese as mother tongue
