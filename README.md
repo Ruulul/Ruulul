@@ -10,27 +10,23 @@
     - Brazilian Portuguese as mother tongue
     - English, fluent(I guess) on read, advanced on write, and _maybe_ advanced on speak/hear
   - Programming Languages:
-    - Javascript  x x x x o
-    - Zig         x x x o o
-    - html        x x x o o
-      - Pug as templating too
-    - css         x x x o o
-    - Python      x x o o o
+    - Javascript  Intermediary/Advanced
+    - Zig         Intermediary
+    - html        Intermediary
+    - css         Intermediary
+    - Python      Basic
     - Just for fun(need to review if I going to do something on these):
-      - Prolog    x x o o o
-      - Assembly  x o o o o
-      - Brainf#ck x o o o o
+      - Prolog    Intermediary
+      - Assembly  Basic
+      - Brainf#ck Advanced
   - Resources:
-    - Node JS     x x x x o
-    - Express     x x x x o
-    - Svelte      x x x x o
-    - React JS    x x o o o
-    - Prisma ORM  x x o o o
+    - Express/Fastify     
+      - Intermediary
+    - Svelte      Intermediary
+    - React JS    Basic/Intermediary
+    - Prisma ORM  Intermediary
   - Other things about me:
-    - I have a crazy learning speed;
+    - I usually pick up new skills fast;
     - Communicative;
-    - Fast thinker about projects;
     - Project driven;
-    - Good on a lot of things;
-    - Play classic music on acustic guitar;
-    - Like small languages, both human and programming, such as Forth, Zig and Toki Pona.
+    - Like to learn seemingly unrelated things;
