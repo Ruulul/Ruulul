@@ -5,7 +5,7 @@
 - 📫 How to reach me: 
   * @V_142857 on Telegram
   * 5-142857#7577 on Discord
-  * vamjunior01@gmail.com by email
+  * valdy#dev@telios.io by email
 ## Support me!
  - Sats: https://getalby.com/p/v_142857
  - Ko-fi: https://ko-fi.com/v142857
